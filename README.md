@@ -36,6 +36,8 @@ Mapty is a web application that lets users log running and cycling workouts with
 3. Right-click `index.html` → **"Open with Live Server"**
 4. Allow location access in the browser
 
+---
+
 ## 📁 Project Structure
 
 Mapty/
@@ -47,8 +49,12 @@ Mapty/
 │   └── logo.png      # App logo
 └── README.md         # This file
 
+---
+
 ## ⚠️ Permissions
 Make sure to allow location access when prompted by the browser. The app won't work otherwise.
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -56,8 +62,12 @@ Inspired by Jonas Schmedtmann's JavaScript course
 
 Uses Leaflet for maps
 
+---
+
 ## 📃 License
 This project is for educational and portfolio use only. Do not use it to teach or redistribute without credit.
+
+---
 
 ## 💡 Future Improvements
 
